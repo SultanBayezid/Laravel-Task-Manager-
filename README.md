@@ -1,6 +1,5 @@
-Test-task 
 Task management system  
-Shortly` Need to create a system that will allow registered users 
+Sumary` Need to create a system that will allow registered users 
 (to managers) to create tasks, assign tasks to 
 developers who in his turn can change the status of the task. Detailed explanation of the task՝ 
 create a website with Laravel that has the following features` 
